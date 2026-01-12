@@ -33,3 +33,10 @@
 ## データの永続化
 
 TODOデータはブラウザのLocalStorageに保存されるため、ブラウザを閉じても再度開いたときに前回のデータが復元されます。
+
+## デプロイ
+
+このアプリケーションは以下のURLでアクセスできます:
+
+- **Vercel**: https://todo-beta-lilac.vercel.app
+- **GitHub Pages**: https://iiyan.github.io/todo/
