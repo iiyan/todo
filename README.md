@@ -40,3 +40,5 @@ TODOデータはブラウザのLocalStorageに保存されるため、ブラウ�
 
 - **Vercel**: https://todo-beta-lilac.vercel.app
 - **GitHub Pages**: https://iiyan.github.io/todo/
+
+自動デプロイが有効になっているため、masterブランチへのpushで自動的にデプロイされます。
